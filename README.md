@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 - **MATLAB Onramp** (October 2024)
 - **ChatGPT Prompt Engineering for Developers** - DeepLearning.AI (September 2024)
 - **DataCamp Intermediate Python** (October 2024)
+- **Accenture North America's Data Analytics and Visualization on Forage.**(October 2024)
+- **BCG's GenAI on Forage**(October 2024)
 
 ## 💼 Experience
 
