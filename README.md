@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 - **DataCamp Intermediate Python** (October 2024)
 - **Accenture North America's Data Analytics and Visualization on Forage.**(October 2024)
 - **BCG's GenAI on Forage**(October 2024)
+- **Github Foundations Certification**(December 2024)![github-foundations](https://github.com/user-attachments/assets/601dbfbc-83ce-46c7-b1c4-fb042b2ee05d)
+
 
 ## 💼 Experience
 
