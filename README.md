@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 
 - **Bachelor of Technology in Computer Science Engineering**
   - Hindustan University
-  - CGPA 9.68
+  - CGPA 9.64
   - Currently in the third semester
 
 ## 📚 Skills
