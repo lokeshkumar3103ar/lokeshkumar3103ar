@@ -42,13 +42,15 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 
 - **Attendance-using-face-qr-system:** Successfully integrated face recognition and QR code technologies using machine learning.
   - GitHub Repository: [https://github.com/lokeshkumar3103ar/Attendance-using-face-qr-system]
+  
 -**Location-Based Alarm:** Developing a task manager with reminders that triggers alarms based on user-defined locations using Openstreetmap and Leaflet.js.
   - Github Repository: [https://github.com/lokeshkumar3103ar/location-based-alarm-with-task-tracking]
+    
 - **Food Delivery Go Thru:** Currently working on a project that focuses on developing an efficient food delivery system capturing travelling users.
 
 ## 💬 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/lokesh-kumar-a-r-465218244)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lokesh-kumar-a-r-465218244)
 - GitHub: [lokeshkumar3103ar](https://github.com/lokeshkumar3103ar)
 
 Feel free to reach out for collaboration, discussions, or just to connect!
