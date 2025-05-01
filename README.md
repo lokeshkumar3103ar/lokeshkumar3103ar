@@ -7,7 +7,9 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 - **Bachelor of Technology in Computer Science Engineering**
   - Hindustan University
   - CGPA 9.64
-  - Currently in the third semester
+  - About to enter 3rd Year
+- **BS in Data Science and Applications**
+  -Indian Institute of Technology, Madras
 
 ## 📚 Skills
 
@@ -18,7 +20,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 - **MATLAB:** Basic to Intermediate
 
 ## 🌟 Certifications
-
+- **Data Literacy Certification** - DataCamp (November 2024)
 - **Getting Started with Git and GitHub** - IBM (September 2024)
 - **Google Data Analytics Specialization** - Coursera (September 2023)
 - **Introduction to Generative AI** - Google Cloud Skills Boost (June 2023)
@@ -38,10 +40,10 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 
 ## 🛠️ Projects
 
-- **Face Recognition AI:** Successfully implemented face detection and recognition with dynamic user identification.
-  - GitHub Repository: [https://github.com/lokeshkumar3103ar/Face-Recognition]
+- **Attendance-using-face-qr-system:** Successfully integrated face recognition and QR code technologies using machine learning.
+  - GitHub Repository: [https://github.com/lokeshkumar3103ar/Attendance-using-face-qr-system]
 -**Location-Based Alarm:** Developing a task manager with reminders that triggers alarms based on user-defined locations using Openstreetmap and Leaflet.js.
-  - Github Repository: [https://github.com/lokeshkumar3103ar/location-alarm]
+  - Github Repository: [https://github.com/lokeshkumar3103ar/location-based-alarm-with-task-tracking]
 - **Food Delivery Go Thru:** Currently working on a project that focuses on developing an efficient food delivery system capturing travelling users.
 
 ## 💬 Get in Touch
