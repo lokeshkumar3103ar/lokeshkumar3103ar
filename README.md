@@ -33,21 +33,6 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student at Hin
 - **Github Foundations Certification**(December 2024)![github-foundations](https://github.com/user-attachments/assets/601dbfbc-83ce-46c7-b1c4-fb042b2ee05d)
 
 
-## 💼 Experience
-
-- **C++ Intern** at Topper World (September 15 - October 15, 2024)
-- **AI with Python Intern** at Cothon Solutions (October 13 - November 13, 2024)
-
-## 🛠️ Projects
-
-- **Attendance-using-face-qr-system:** Successfully integrated face recognition and QR code technologies using machine learning.
-  - GitHub Repository: [https://github.com/lokeshkumar3103ar/Attendance-using-face-qr-system]
-  
-- **Location-Based Alarm:** Developing a task manager with reminders that triggers alarms based on user-defined locations using Openstreetmap and Leaflet.js.
-  - Github Repository: [https://github.com/lokeshkumar3103ar/location-based-alarm-with-task-tracking]
-    
-- **Food Delivery Go Thru:** Currently working on a project that focuses on developing an efficient food delivery system capturing travelling users.
-
 ## 💬 Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lokesh-kumar-a-r-465218244)
