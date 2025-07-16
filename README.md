@@ -1,5 +1,5 @@
 # Lokesh Kumar A R [My Portfolio Website](https://lokeshkumar3103ar.github.io/My_portfolio/) And my [AI Portfolio](https://lokeshkumar3103ar.github.io/Ai_portfolio/)
-Welcome to my GitHub profile! I'm High-achieving AI/ML Engineering student with 9.63 CGPA from IIT Madras and Hindustan University. Creator of QritiQ—a university-funded AI evaluation platform achieving 95% accuracy using OpenAI Whisper, Ollama, and Mistral models, securing institutional investment. Expertise in Generative AI, LLMs, Multi-Agent Systems, Docker containerization, and Prompt Engineering with hands-on experience in production-ready AI system development.
+Welcome to my GitHub profile! I'm High-achieving AI/ML Engineering student with 9.63 CGPA from IIT Madras and Hindustan University. Creator of QritiQ AI a university-funded AI evaluation platform achieving 95% accuracy using OpenAI Whisper, Ollama, and Mistral models, securing institutional investment. Expertise in Generative AI, LLMs, Multi-Agent Systems, Docker containerization, and Prompt Engineering with hands-on experience in production-ready AI system development.
 
 
 
