@@ -65,6 +65,7 @@ Welcome to my GitHub profile! I'm High-achieving AI/ML Engineering student with 
 - <img src="https://cdn.brandfetch.io/idV710Mm_L/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"/> **Accenture North America's Data Analytics and Visualization on Forage.**(October 2024)
 - <img src="https://cdn.brandfetch.io/idV710Mm_L/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"/> **BCG's GenAI on Forage**(October 2024)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> **Github Foundations Certification**(December 2024)![github-foundations](https://github.com/user-attachments/assets/601dbfbc-83ce-46c7-b1c4-fb042b2ee05d)
+- <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png">
 
 
 
