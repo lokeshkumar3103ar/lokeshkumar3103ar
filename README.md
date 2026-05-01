@@ -1,5 +1,10 @@
-# Lokesh Kumar A R [My Portfolio Website](https://lokeshkumar3103ar.github.io/My_portfolio/) And my [AI Portfolio](https://lokeshkumar3103ar.github.io/Ai_portfolio/)
-Welcome to my GitHub profile! I'm High-achieving AI/ML Engineering student with 9.63 CGPA from IIT Madras and Hindustan University. Creator of QritiQ AI a university-funded AI evaluation platform achieving 95% accuracy using OpenAI Whisper, Ollama, and Mistral models, securing institutional investment. Expertise in Generative AI, LLMs, Multi-Agent Systems, Docker containerization, and Prompt Engineering with hands-on experience in production-ready AI system development.
+# Lokesh Kumar A R [My Portfolio Website](https://dragon-portfolio-omega.vercel.app/)
+Welcome to my GitHub profile! Full-Stack AI Product Engineer who has shipped 8+ end-to-end AI products — from raw architecture to
+live production. Worked directly with founders and CEO to define, build, and deploy complete systems:
+Next.js frontends, FastAPI backends, Azure & GCP cloud infrastructure, and ML pipelines. Won First
+Prize & Best Project Award at Gyan Disha ’26 Expo. High-ownership builder who thrives at startup velocity
+— pursuing B.Tech CSE (CGPA 9.61) at Hindustan University alongside B.S. Data Science at IIT Madras.
+
 
 
 
@@ -14,13 +19,15 @@ Welcome to my GitHub profile! I'm High-achieving AI/ML Engineering student with 
   - Core Focus: AI & Expert Systems, Machine Learning, Advanced Data Structures, Algorithms, DBMS, Software Testing
 
 ## Skills
-
-- **Programming:** Python (Advanced), Java, C/C++, SQL
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenAI Whisper, Transformers, LLMs, Multi-Agent Systems, RAG
-- **MLOps:** Docker, Ollama, Models, Model Context Protocol (MCP), CI/CD, Edge AI Deployment
-- **Data Science:** Pandas, NumPy, Matplotlib, Statistical Analysis, Jupyter Notebooks
-- **Backend:** FastAPI, Flask, SQLAlchemy, MongoDB, REST APIs, Database Design
-- **Tools:** Git/GitHub, Linux, VS Code, Container Orchestration, Prompt Engineering, Copilot, n8n, Claude, ChatGPT, MCP
+AI/ML & GenAI: PyTorch, TensorFlow, Transformers, OpenAI Whisper, LLMs, LoRA, RAG, Scikit-learn,
+Ollama, Mistral, Azure OpenAI, Prompt Engineering, Agentic AI, MCP
+Frontend: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, REST API Integration,
+Responsive Design
+Backend & APIs: FastAPI, Node.js, Celery, Redis, REST APIs, WebSockets, SQLAlchemy, Flask
+DevOps & Cloud: Docker, CI/CD, Git/GitHub, Linux, Vercel, Azure (Blob, OpenAI), GCP, Oracle OCI,
+Container Orchestration
+Databases: PostgreSQL, Supabase, SQLite, SQL, Database Design, Migrations
+Programming: Python (Advanced), JavaScript, TypeScript, SQL, HTML/CSS, C/C++
 
 ### Tech Stack
 <p align="left">
@@ -69,25 +76,49 @@ Welcome to my GitHub profile! I'm High-achieving AI/ML Engineering student with 
 
 
 
-## Professional Experience
-
-**AI Research and Development Intern**  
-Hindustan Institute of Technology and Science, Chennai  
-May 2025 – Present
-- Designed and developed QritiQ, an AI-powered Self-Intro Evaluation platform analyzing communication effectiveness
-- Achieved 66% reduction in manual evaluation time while maintaining assessment depth and precision
-- Integrated Whisper ASR models with LLM systems for automated speech and presentation evaluation
-- Implemented local LLM deployment using Ollama and Mistral models achieving 80% cost reduction vs cloud APIs
-- Secured university financial investment for commercialization and multi-institutional deployment
-
-**Artificial Intelligence with Python Intern**  
-Cothon Solutions (Remote)  
-Oct 2024 – Nov 2024
-- Gained hands-on experience in Machine Learning and Deep Learning algorithms, including CNN and MTCNN
-- Implemented image recognition and facial detection projects, enhancing practical ML application skills
-- Developed comprehensive understanding of model training, evaluation metrics, and deployment challenges
-- Adapted quickly to new concepts, independently researching unfamiliar algorithms and tools
-
+Professional Experience
+AI Product Builder & Full-Stack Engineer Apr 2026 – Present
+Self-Employed · Freelance Chennai, Tamil Nadu · Remote
+• Building and shipping production-grade AI-powered software products independently for clients, founders,
+and own ventures
+• Developing Tunear Studio — AI-powered audio mastering SaaS (tunear-studio.vercel.app) using Next.js,
+FastAPI, Celery, Redis, Azure Blob, Supabase, and Docker
+• Leading Flaron Tech (flarontech.com) — a 5-member development agency delivering full-stack client
+projects across web, AI, and SaaS
+• Available to build: MVPs, SaaS products, AI integrations, production APIs, and end-to-end systems on
+demand
+AI Product Engineer & Tech Lead Jul 2025 – Apr 2026
+Imitate Labs (Startup) imitatelabs.ai Chennai· Onsite
+• Built a full-stack AI Video Editor end-to-end — raw footage upload to polished video with auto cuts,
+b-rolls, background music, zoom effects, transitions, and subtitles/captions; powered by LLMs,
+custom NLE editor pipeline, and FFmpeg on Azure & GCP infrastructure
+• Owned complete system architecture as sole full-stack engineer: FastAPI backend, Next.js frontend,
+Azure Blob & GCP storage, databases, and Docker CI/CD — zero to live production
+• Built ILIOS — a fully manageable internal team OS covering KPI dashboards, hiring pipelines, and
+task management; shipped end-to-end on Next.js/TypeScript
+• Worked directly with founders and CEO to define product vision, translate requirements into shipped
+features, and lead cross-functional execution across engineering, design, and ML
+AI/ML Lead Sep 2025 – Present
+Blue Screen Programming Club, Hindustan Institute of Technology and Science Chennai· Onsite
+• Directing all AI/ML initiatives and technical mentorship programs across 200+ active club members
+• Curating workshops, event formats, and hands-on challenge programs bridging academic AI with industry
+practice
+• Organizing inter-college competitions and collaborative AI project delivery under production constraints
+AI R&D Project Lead – QritiQ May 2025 – Jul 2025
+Hindustan Institute of Technology and Science Chennai · Onsite
+• Led development of university-funded QritiQ — an AI self-introduction evaluator platform; worked
+directly under the Research Director and owned all full-stack architectural decisions
+• Integrated OpenAI Whisper + Ollama + Mistral/Llama pipeline using Python, FastAPI, and
+Docker, achieving 95% transcription accuracy — a real contribution to institutional AI research
+• Delivered 66% reduction in manual evaluation time across 800+ student assessments
+• Secured institutional financial sponsorship for commercialization and multi-college deployment
+AI with Python Intern Oct 2024 – Nov 2024
+COTHON Solutions Remote
+• Built a Face Recognition Attendance Web App using CNN and Python; implemented real-time
+detection pipeline for automated attendance tracking
+• Developed AI scripts and GenAI prototypes spanning NLP, text classification, and automation using
+Scikit-learn and Python
+• Gained hands-on experience with Git, code review workflows, and industry-standard development practices
 ## 💬 Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lokesh-kumar-a-r-465218244)
