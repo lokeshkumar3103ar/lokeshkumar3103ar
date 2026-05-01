@@ -1,7 +1,7 @@
 # Hi there, I'm Lokesh Kumar A R 👋
 ### [🌐 My Portfolio Website](https://dragon-portfolio-omega.vercel.app/)
 
-Welcome to my GitHub profile! I am a **Full-Stack AI Product Engineer** who has shipped 8+ end-to-end AI products — from raw architecture to live production. I have worked directly with founders and CEOs to define, build, and deploy complete systems including Next.js frontends, FastAPI backends, Azure & GCP cloud infrastructure, and ML pipelines. 
+Welcome to my GitHub profile! I am a **Full-Stack AI Product Engineer** who has shipped 8+ end-to-end AI products — from raw architecture to live production. I have worked directly with founders and CEO to define product vision, translate requirements into shipped features, and lead cross-functional execution across engineering, design, and ML.
 
 🏆 **First Prize & Best Project Award** at Gyan Disha ’26 Expo.  
 🚀 High-ownership builder who thrives at startup velocity.
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a **Full-Stack AI Product Engineer** who has 
 
 ### AI Product Engineer & Tech Lead
 **Imitate Labs (Startup)** | *Chennai · Onsite* | *Jul 2025 – Apr 2026*
-- Built a full-stack AI Video Editor end-to-end — raw footage upload to polished video with auto cuts, b-rolls, background music, zoom effects, transitions, and subtitles/captions; powered by LLMs, custom NLE editor pipeline, and FFmpeg on Azure & GCP infrastructure.
+- Built a full-stack AI Video Editor end-to-end — raw footage upload to polished video with auto cuts, b-rolls, background music, zoom effects, transitions, and subtitles/captions; powered by LLMs, Python, and FFMPEG.
 - Owned complete system architecture as sole full-stack engineer: FastAPI backend, Next.js frontend, Azure Blob & GCP storage, databases, and Docker CI/CD — zero to live production.
 - Built **ILIOS** — a fully manageable internal team OS covering KPI dashboards, hiring pipelines, and task management; shipped end-to-end on Next.js/TypeScript.
 - Worked directly with founders and CEO to define product vision, translate requirements into shipped features, and lead cross-functional execution across engineering, design, and ML.
@@ -67,30 +67,7 @@ Welcome to my GitHub profile! I am a **Full-Stack AI Product Engineer** who has 
 **Programming:** Python (Advanced), JavaScript, TypeScript, SQL, HTML/CSS, C/C++  
 
 <p align="left">
-  <img src="svg/visual-studio-code-icon.svg" width="32" height="32" title="VS Code"/>
-  <img src="svg/n8n-color.svg" width="32" height="32" title="n8n"/>
-  <img src="svg/claude-color.svg" width="32" height="32" title="Claude"/>
-  <img src="svg/chatgpt-icon.svg" width="32" height="32" title="ChatGPT"/>
-  <img src="svg/mcp.svg" width="32" height="32" title="MCP"/>
-  <img src="svg/copilot-icon.svg" width="32" height="32" title="Copilot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" height="32" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="32" height="32" title="SQLAlchemy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" height="32" title="Matplotlib"/>
+  <img src="svg/visual-studio-code-icon.svg" width="32" height="32" title="VS Code"/> <img src="svg/n8n-color.svg" width="32" height="32" title="n8n"/> <img src="svg/claude-color.svg" width="32" height="32" title="Claude"/> <img src="svg/chatgpt-icon.svg" width="32" height="32" title="ChatGPT"/> <img src="svg/mcp.svg" width="32" height="32" title="MCP"/> <img src="svg/copilot-icon.svg" width="32" height="32" title="Copilot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" title="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" title="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32" title="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32" title="TensorFlow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" title="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" height="32" title="Flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="32" height="32" title="SQLAlchemy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" title="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" title="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" height="32" title="Matplotlib"/>
 </p>
 
 ---
